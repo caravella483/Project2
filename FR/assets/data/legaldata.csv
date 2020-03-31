@@ -1,0 +1,52 @@
+State,Pop,legalWeedStatus,medicinalWeedStatus,decriminalizedWeedStatus,state
+Alabama,4908621,Fully Illegal,FALSE,FALSE,Alabama
+Alaska,734002,Fully Legal,TRUE,TRUE,Alaska
+Arizona,7378494,Mixed,TRUE,FALSE,Arizona
+Arkansas,3038999,Mixed,TRUE,FALSE,Arkansas
+California,39937489,Fully Legal,TRUE,TRUE,California
+Colorado,5845526,Fully Legal,TRUE,TRUE,Colorado
+Connecticut,3563077,Mixed,TRUE,FALSE,Connecticut
+Delaware,982895,Mixed,TRUE,FALSE,Delaware
+District of Columbia,720687,Fully Legal,TRUE,TRUE,District of Columbia
+Florida,21992985,Mixed,TRUE,FALSE,Florida
+Georgia,10736059,Mixed,FALSE,FALSE,Georgia
+Hawaii,1412687,Mixed,TRUE,FALSE,Hawaii
+Idaho,1826156,Fully Illegal,FALSE,FALSE,Idaho
+Illinois,12659682,Mixed,TRUE,FALSE,Illinois
+Indiana,6745354,Mixed,FALSE,FALSE,Indiana
+Iowa,3179849,Mixed,FALSE,FALSE,Iowa
+Kansas,2910357,Fully Illegal,FALSE,FALSE,Kansas
+Kentucky,4499692,Fully Illegal,FALSE,FALSE,Kentucky
+Louisiana,4645184,Mixed,TRUE,FALSE,Louisiana
+Maine,1345790,Fully Legal,TRUE,TRUE,Maine
+Maryland,6083116,Mixed,TRUE,FALSE,Maryland
+Massachusetts,6976597,Fully Legal,TRUE,TRUE,Massachusetts
+Michigan,10045029,Fully Legal,TRUE,TRUE,Michigan
+Minnesota,5700671,Mixed,TRUE,FALSE,Minnesota
+Mississippi,2989260,Fully Illegal,FALSE,FALSE,Mississippi
+Missouri,6169270,Mixed,TRUE,FALSE,Missouri
+Montana,1086759,Mixed,TRUE,FALSE,Montana
+Nebraska,1952570,Fully Illegal,FALSE,FALSE,Nebraska
+Nevada,3139658,Fully Legal,TRUE,TRUE,Nevada
+New Hampshire,1371246,Mixed,TRUE,FALSE,New Hampshire
+New Jersey,8936574,Mixed,TRUE,FALSE,New Jersey
+New Mexico,2096640,Mixed,TRUE,FALSE,New Mexico
+New York,19440469,Mixed,TRUE,FALSE,New York
+North Carolina,10611862,Fully Illegal,FALSE,FALSE,North Carolina
+North Dakota,761723,Mixed,TRUE,FALSE,North Dakota
+Ohio,11747694,Mixed,TRUE,FALSE,Ohio
+Oklahoma,3954821,Mixed,TRUE,FALSE,Oklahoma
+Oregon,4301089,Fully Legal,TRUE,TRUE,Oregon
+Pennsylvania,12820878,Mixed,TRUE,FALSE,Pennsylvania
+Rhode Island,1056161,Mixed,TRUE,FALSE,Rhode Island
+South Carolina,5210095,Fully Illegal,FALSE,FALSE,South Carolina
+South Dakota,903027,Fully Illegal,FALSE,FALSE,South Dakota
+Tennessee,6897576,Fully Illegal,FALSE,FALSE,Tennessee
+Texas,29472295,Mixed,FALSE,FALSE,Texas
+Utah,3282115,Mixed,TRUE,FALSE,Utah
+Vermont,628061,Fully Legal,TRUE,TRUE,Vermont
+Virginia,8626207,Mixed,FALSE,FALSE,Virginia
+Washington,7797095,Fully Legal,TRUE,TRUE,Washington
+West Virginia,1778070,Mixed,TRUE,FALSE,West Virginia
+Wisconsin,5851754,Fully Illegal,FALSE,FALSE,Wisconsin
+Wyoming,567025,Fully Illegal,FALSE,FALSE,Wyoming
