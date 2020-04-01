@@ -1,4 +1,4 @@
-legalWeedStatus,State,Year,MV_Deaths,Total_Deaths,Total_OD_Deaths,OD Death %,MV Death %
+legalWeedStatus,State,Year,MV_Deaths,Total_Deaths,Total_OD_Deaths,OverdosePercent,MVPercent
 Fully Illegal,Alabama,6048,2919,1840021.0,26693.0,0.01450689964951487,0.0015863949378838612
 Fully Illegal,Idaho,6048,726,475742.0,8000.0,0.016815837155432986,0.0015260372218555435
 Fully Illegal,Kansas,6048,1231,925159.0,11471.0,0.012398949802142118,0.0013305820945372633
