@@ -19,29 +19,40 @@ app = Flask(__name__)
 
 
 #postgreSQL connection
-rds_connection_string =  "<postgres>:<password>@localhost:5432/GUN_VIOLENCE_PROJECT" 
+password = "Hooch#12"
+dbuser = "postgres"
+rds_connection_string = f"{dbuser}:{password}@localhost:5432/Project2"
 engine = create_engine(f'postgresql://{rds_connection_string}')
 
-# bar chart data 
-@app.route("/yeardata")
+# legal status
+@app.route("/state_status")
 def year():
-    df = pd.read_sql_query('SELECT  * FROM gun_year LIMIT 5' , con=engine).head()
+    df = pd.read_sql_query('SELECT  * FROM state_status' , con=engine).head()
     bar_list = df.to_dict(orient='records')
     print (bar_list)
     return jsonify(bar_list)
 ###############################################################
-# pie chart data from PostGres
-@app.route("/shootingtypes")
+
+
+# legalstatus_level from postgres
+@app.route("/legalstatus_levelshootingtypes")
 def shootingstypes():
-     type_df = pd.read_sql_query('select * from gunshootingstype', con=engine).head(10)
+     type_df = pd.read_sql_query('select * from legalstatus_level', con=engine).head(10)
      shootingstypes = type_df.to_dict(orient='records')
      return jsonify(shootingstypes)
 
 
+# state_level from postgres
+@app.route("/state_level")
+def shootingstypes():
+     type_df = pd.read_sql_query('select * from state_level', con=engine).head(10)
+     shootingstypes = type_df.to_dict(orient='records')
+     return jsonify(shootingstypes)
+
 
 #######################################################
 # Bar Chart data from csv
-@app.route("/barchartdata")
+@app.route("/state_level")
 def yearlybarchart():
      bar_df = pd.read_csv("static/data/year_trend_gun.csv")
      bar_dict = bar_df.to_dict(orient='records')
