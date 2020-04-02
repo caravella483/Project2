@@ -1,0 +1,18 @@
+--Happiness
+create table 
+state_level (
+ID SERIAL,
+legalWeedStatus varchar(30),
+Mv_Deaths  int,
+Total_Deaths  int,
+Total_OD_Deaths int,
+OverdosePercent int,
+MVPercent int)
+;
+create table 
+state_status (
+ID SERIAL,
+State varchar (30),
+	legalWeedStatus varchar(30));
+
+	
