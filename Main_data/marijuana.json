@@ -1,0 +1,512 @@
+[
+  {
+    "State": "AK",
+    "State Name": "Alaska",
+    "Average of yearly_OD_deaths_2015_to_2017": 1545.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 4637,
+    "Sum of yearly_deaths": 152824,
+    "Percent of OD deaths": 3.03,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "AL",
+    "State Name": "Alabama",
+    "Average of yearly_OD_deaths_2015_to_2017": 8897.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 26693,
+    "Sum of yearly_deaths": 1840021,
+    "Percent of OD deaths": 1.45,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "AR",
+    "State Name": "Arkansas",
+    "Average of yearly_OD_deaths_2015_to_2017": 4634.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 13904,
+    "Sum of yearly_deaths": 1112767,
+    "Percent of OD deaths": 1.25,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "AZ",
+    "State Name": "Arizona",
+    "Average of yearly_OD_deaths_2015_to_2017": 16181.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 48545,
+    "Sum of yearly_deaths": 2007843,
+    "Percent of OD deaths": 2.42,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "CA",
+    "State Name": "California",
+    "Average of yearly_OD_deaths_2015_to_2017": 57187,
+    "Sum of yearly_OD_deaths_2015_to_2017": 171561,
+    "Sum of yearly_deaths": 9398586,
+    "Percent of OD deaths": 1.83,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "CO",
+    "State Name": "Colorado",
+    "Average of yearly_OD_deaths_2015_to_2017": 11424.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 34274,
+    "Sum of yearly_deaths": 1354040,
+    "Percent of OD deaths": 2.53,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "CT",
+    "State Name": "Connecticut",
+    "Average of yearly_OD_deaths_2015_to_2017": 10607,
+    "Sum of yearly_OD_deaths_2015_to_2017": 31821,
+    "Sum of yearly_deaths": 1104022,
+    "Percent of OD deaths": 2.88,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "DC",
+    "State Name": "District of Columbia",
+    "Average of yearly_OD_deaths_2015_to_2017": 2800.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 8402,
+    "Sum of yearly_deaths": 212628,
+    "Percent of OD deaths": 3.95,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "DE",
+    "State Name": "Delaware",
+    "Average of yearly_OD_deaths_2015_to_2017": 2993.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 8981,
+    "Sum of yearly_deaths": 316137,
+    "Percent of OD deaths": 2.84,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "FL",
+    "State Name": "Florida",
+    "Average of yearly_OD_deaths_2015_to_2017": 50238.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 150716,
+    "Sum of yearly_deaths": 7112473,
+    "Percent of OD deaths": 2.12,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "GA",
+    "State Name": "Georgia",
+    "Average of yearly_OD_deaths_2015_to_2017": 16253.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 48760,
+    "Sum of yearly_deaths": 2920147,
+    "Percent of OD deaths": 1.67,
+    "Medicinal": "CBD Oil",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "HI",
+    "State Name": "Hawaii",
+    "Average of yearly_OD_deaths_2015_to_2017": 2163.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 6490,
+    "Sum of yearly_deaths": 400787,
+    "Percent of OD deaths": 1.62,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "IA",
+    "State Name": "Iowa",
+    "Average of yearly_OD_deaths_2015_to_2017": 3726.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 11179,
+    "Sum of yearly_deaths": 1061782,
+    "Percent of OD deaths": 1.05,
+    "Medicinal": "CBD Oil",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "ID",
+    "State Name": "Idaho",
+    "Average of yearly_OD_deaths_2015_to_2017": 2666.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 8000,
+    "Sum of yearly_deaths": 475742,
+    "Percent of OD deaths": 1.68,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "IL",
+    "State Name": "Illinois",
+    "Average of yearly_OD_deaths_2015_to_2017": 26156.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 78469,
+    "Sum of yearly_deaths": 3762243,
+    "Percent of OD deaths": 2.09,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "IN",
+    "State Name": "Indiana",
+    "Average of yearly_OD_deaths_2015_to_2017": 17227,
+    "Sum of yearly_OD_deaths_2015_to_2017": 51681,
+    "Sum of yearly_deaths": 2302679,
+    "Percent of OD deaths": 2.24,
+    "Medicinal": "CBD Oil",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "KS",
+    "State Name": "Kansas",
+    "Average of yearly_OD_deaths_2015_to_2017": 3823.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 11471,
+    "Sum of yearly_deaths": 925159,
+    "Percent of OD deaths": 1.24,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "KY",
+    "State Name": "Kentucky",
+    "Average of yearly_OD_deaths_2015_to_2017": 16392.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 49178,
+    "Sum of yearly_deaths": 1685606,
+    "Percent of OD deaths": 2.92,
+    "Medicinal": "CBD Oil",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "LA",
+    "State Name": "Louisiana",
+    "Average of yearly_OD_deaths_2015_to_2017": 11179,
+    "Sum of yearly_OD_deaths_2015_to_2017": 33537,
+    "Sum of yearly_deaths": 1596618,
+    "Percent of OD deaths": 2.1,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "MA",
+    "State Name": "Massachusetts",
+    "Average of yearly_OD_deaths_2015_to_2017": 22419.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 67259,
+    "Sum of yearly_deaths": 2099061,
+    "Percent of OD deaths": 3.2,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "MD",
+    "State Name": "Maryland",
+    "Average of yearly_OD_deaths_2015_to_2017": 20468.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 61406,
+    "Sum of yearly_deaths": 1728952,
+    "Percent of OD deaths": 3.55,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "ME",
+    "State Name": "Maine",
+    "Average of yearly_OD_deaths_2015_to_2017": 3743.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 11230,
+    "Sum of yearly_deaths": 509322,
+    "Percent of OD deaths": 2.2,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "MI",
+    "State Name": "Michigan",
+    "Average of yearly_OD_deaths_2015_to_2017": 26279,
+    "Sum of yearly_OD_deaths_2015_to_2017": 78837,
+    "Sum of yearly_deaths": 3410245,
+    "Percent of OD deaths": 2.31,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "MN",
+    "State Name": "Minnesota",
+    "Average of yearly_OD_deaths_2015_to_2017": 7541.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 22625,
+    "Sum of yearly_deaths": 1550025,
+    "Percent of OD deaths": 1.46,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "MO",
+    "State Name": "Missouri",
+    "Average of yearly_OD_deaths_2015_to_2017": 14805,
+    "Sum of yearly_OD_deaths_2015_to_2017": 44415,
+    "Sum of yearly_deaths": 2242695,
+    "Percent of OD deaths": 1.98,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "MS",
+    "State Name": "Mississippi",
+    "Average of yearly_OD_deaths_2015_to_2017": 3917,
+    "Sum of yearly_OD_deaths_2015_to_2017": 11751,
+    "Sum of yearly_deaths": 1110201,
+    "Percent of OD deaths": 1.06,
+    "Medicinal": "No",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "MT",
+    "State Name": "Montana",
+    "Average of yearly_OD_deaths_2015_to_2017": 1489.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 4469,
+    "Sum of yearly_deaths": 357782,
+    "Percent of OD deaths": 1.25,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "NC",
+    "State Name": "North Carolina",
+    "Average of yearly_OD_deaths_2015_to_2017": 21527,
+    "Sum of yearly_OD_deaths_2015_to_2017": 64581,
+    "Sum of yearly_deaths": 3267508,
+    "Percent of OD deaths": 1.98,
+    "Medicinal": "No",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "ND",
+    "State Name": "North Dakota",
+    "Average of yearly_OD_deaths_2015_to_2017": 859,
+    "Sum of yearly_OD_deaths_2015_to_2017": 2577,
+    "Sum of yearly_deaths": 247851,
+    "Percent of OD deaths": 1.04,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "NE",
+    "State Name": "Nebraska",
+    "Average of yearly_OD_deaths_2015_to_2017": 1494.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 4484,
+    "Sum of yearly_deaths": 601977,
+    "Percent of OD deaths": 0.74,
+    "Medicinal": "No",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "NH",
+    "State Name": "New Hampshire",
+    "Average of yearly_OD_deaths_2015_to_2017": 5225.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 15676,
+    "Sum of yearly_deaths": 425407,
+    "Percent of OD deaths": 3.68,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "NJ",
+    "State Name": "New Jersey",
+    "Average of yearly_OD_deaths_2015_to_2017": 21496.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 64490,
+    "Sum of yearly_deaths": 2588031,
+    "Percent of OD deaths": 2.49,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "NM",
+    "State Name": "New Mexico",
+    "Average of yearly_OD_deaths_2015_to_2017": 6069.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 18208,
+    "Sum of yearly_deaths": 629482,
+    "Percent of OD deaths": 2.89,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "NV",
+    "State Name": "Nevada",
+    "Average of yearly_OD_deaths_2015_to_2017": 8182.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 24547,
+    "Sum of yearly_deaths": 872050,
+    "Percent of OD deaths": 2.81,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "NY",
+    "State Name": "New York",
+    "Average of yearly_OD_deaths_2015_to_2017": 24567.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 73702,
+    "Sum of yearly_deaths": 3544757,
+    "Percent of OD deaths": 2.08,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "OH",
+    "State Name": "Ohio",
+    "Average of yearly_OD_deaths_2015_to_2017": 47730,
+    "Sum of yearly_OD_deaths_2015_to_2017": 143190,
+    "Sum of yearly_deaths": 4300757,
+    "Percent of OD deaths": 3.33,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "OK",
+    "State Name": "Oklahoma",
+    "Average of yearly_OD_deaths_2015_to_2017": 9241.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 27724,
+    "Sum of yearly_deaths": 1379548,
+    "Percent of OD deaths": 2.01,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "OR",
+    "State Name": "Oregon",
+    "Average of yearly_OD_deaths_2015_to_2017": 6110,
+    "Sum of yearly_OD_deaths_2015_to_2017": 18330,
+    "Sum of yearly_deaths": 1290898,
+    "Percent of OD deaths": 1.42,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "PA",
+    "State Name": "Pennsylvania",
+    "Average of yearly_OD_deaths_2015_to_2017": 48913.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 146740,
+    "Sum of yearly_deaths": 4832622,
+    "Percent of OD deaths": 3.04,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "RI",
+    "State Name": "Rhode Island",
+    "Average of yearly_OD_deaths_2015_to_2017": 3827,
+    "Sum of yearly_OD_deaths_2015_to_2017": 11481,
+    "Sum of yearly_deaths": 368263,
+    "Percent of OD deaths": 3.12,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "SC",
+    "State Name": "South Carolina",
+    "Average of yearly_OD_deaths_2015_to_2017": 9979.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 29939,
+    "Sum of yearly_deaths": 1681579,
+    "Percent of OD deaths": 1.78,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "SD",
+    "State Name": "South Dakota",
+    "Average of yearly_OD_deaths_2015_to_2017": 809,
+    "Sum of yearly_OD_deaths_2015_to_2017": 2427,
+    "Sum of yearly_deaths": 286010,
+    "Percent of OD deaths": 0.85,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "TN",
+    "State Name": "Tennessee",
+    "Average of yearly_OD_deaths_2015_to_2017": 18586.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 55760,
+    "Sum of yearly_deaths": 2556665,
+    "Percent of OD deaths": 2.18,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "TX",
+    "State Name": "Texas",
+    "Average of yearly_OD_deaths_2015_to_2017": 32537.67,
+    "Sum of yearly_OD_deaths_2015_to_2017": 97613,
+    "Sum of yearly_deaths": 6968433,
+    "Percent of OD deaths": 1.4,
+    "Medicinal": "CBD Oil",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "UT",
+    "State Name": "Utah",
+    "Average of yearly_OD_deaths_2015_to_2017": 7750.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 23251,
+    "Sum of yearly_deaths": 653758,
+    "Percent of OD deaths": 3.56,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "VA",
+    "State Name": "Virginia",
+    "Average of yearly_OD_deaths_2015_to_2017": 14405.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 43216,
+    "Sum of yearly_deaths": 2352167,
+    "Percent of OD deaths": 1.84,
+    "Medicinal": "CBD Oil",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "VT",
+    "State Name": "Vermont",
+    "Average of yearly_OD_deaths_2015_to_2017": 1363.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 4090,
+    "Sum of yearly_deaths": 207080,
+    "Percent of OD deaths": 1.98,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "WA",
+    "State Name": "Washington",
+    "Average of yearly_OD_deaths_2015_to_2017": 13232,
+    "Sum of yearly_OD_deaths_2015_to_2017": 39696,
+    "Sum of yearly_deaths": 1976262,
+    "Percent of OD deaths": 2.01,
+    "Medicinal": "Yes",
+    "Decriminalized": "Yes"
+  },
+  {
+    "State": "WI",
+    "State Name": "Wisconsin",
+    "Average of yearly_OD_deaths_2015_to_2017": 11960.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 35881,
+    "Sum of yearly_deaths": 1853379,
+    "Percent of OD deaths": 1.94,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "WV",
+    "State Name": "West Virginia",
+    "Average of yearly_OD_deaths_2015_to_2017": 9894.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 29683,
+    "Sum of yearly_deaths": 795835,
+    "Percent of OD deaths": 3.73,
+    "Medicinal": "Yes",
+    "Decriminalized": "No"
+  },
+  {
+    "State": "WY",
+    "State Name": "Wyoming",
+    "Average of yearly_OD_deaths_2015_to_2017": 1079.33,
+    "Sum of yearly_OD_deaths_2015_to_2017": 3238,
+    "Sum of yearly_deaths": 158716,
+    "Percent of OD deaths": 2.04,
+    "Medicinal": "No",
+    "Decriminalized": "No"
+  }
+]
