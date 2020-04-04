@@ -1,0 +1,138 @@
+import os
+
+import pandas as pd
+import numpy as np
+
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine
+
+from flask import Flask, jsonify, render_template
+from flask_sqlalchemy import SQLAlchemy
+
+app = Flask(__name__)
+
+#################################################
+# Database Setup
+#################################################
+
+
+#postgreSQL connection
+password = "Hooch#12"
+dbuser = "postgres"
+rds_connection_string = f"{dbuser}:{password}@localhost:5432/Project2"
+engine = create_engine(f'postgresql://{rds_connection_string}')
+
+# legal status
+@app.route("/state_status")
+def year():
+    df = pd.read_sql_query('SELECT  * FROM state_status' , con=engine).head()
+    bar_list = df.to_dict(orient='records')
+    print (bar_list)
+    return jsonify(bar_list)
+###############################################################
+
+
+# legalstatus_level from postgres
+@app.route("/legalstatus_levelshootingtypes")
+def shootingstypes():
+     type_df = pd.read_sql_query('select * from legalstatus_level', con=engine).head(10)
+     shootingstypes = type_df.to_dict(orient='records')
+     return jsonify(shootingstypes)
+
+
+# state_level from postgres
+@app.route("/state_level")
+def shootingstypes():
+     type_df = pd.read_sql_query('select * from state_level', con=engine).head(10)
+     shootingstypes = type_df.to_dict(orient='records')
+     return jsonify(shootingstypes)
+
+
+#######################################################
+# Bar Chart data from csv
+@app.route("/state_level")
+def yearlybarchart():
+     bar_df = pd.read_csv("static/data/year_trend_gun.csv")
+     bar_dict = bar_df.to_dict(orient='records')
+     return jsonify(bar_dict)
+
+#########################################################
+# line chart data from csv
+@app.route("/monthlydata")
+def month():
+     flaskdf = pd.read_csv("static/data/gun2014onwrd.csv")
+     line_dict = flaskdf.to_dict(orient='records')
+     return jsonify(line_dict)
+
+#########################################################
+# pie chart fron csv
+@app.route("/incidents")
+def incidents ():
+     incidentdf = pd.read_csv("static/data/Years_Data_2014_2019.csv")
+     incident_dict = incidentdf.to_dict(orient='records')
+     return jsonify(incident_dict)
+
+
+
+##########################################################
+# pie chart data from PostGres
+@app.route("/markercluster")
+def markercluster():
+     df = pd.read_sql_query('select * from markercluster', con=engine)
+     markercluster_dict = df.to_dict(orient='records')
+     print("Reading from Database")
+     # print(markercluster_dict)
+     return jsonify(markercluster_dict)
+
+#######################################################
+
+
+# rendering templates for all html pages
+@app.route("/")
+def index():
+#     """Return the homepage."""
+    return render_template("index.html")
+
+@app.route("/clustermap")
+def clustermap():
+     return render_template("markercluster.html")
+
+
+
+@app.route("/yearlybarchart")
+def barchart():
+     return render_template("barchart.html")
+
+
+@app.route("/monthlylinechart")
+def linechart():
+     return render_template("linechart.html")
+
+@app.route("/periodpiechart")
+def piechart():
+     return render_template("piechart.html")
+
+@app.route("/timeframeheatmap")
+def heatmap():
+     return render_template("heatmap.html")
+   
+    
+
+@app.route("/current2019")
+def choroplethmap():
+     return render_template("choroplethmap.html")
+   
+
+@app.route("/data")
+def data():
+     return render_template("data.html")
+
+@app.route("/guncontrol") 
+def guncontrol():
+     return render_template("guncontrol.html")
+
+if __name__ == "__main__":
+     app.run(debug=True)
+    
