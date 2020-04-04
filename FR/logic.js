@@ -5,8 +5,8 @@ createBorough(map);
 function createMap() {
   // Creating map object
   var map = L.map("map", {
-    center: [40.7128, -74.0059],
-    zoom: 11
+    center: [39.381266, -97.922211],
+    zoom: 4
   });
   return map;
 }
@@ -24,14 +24,14 @@ function addBaseLayer(map) {
 /**********************************************/
 function createBorough(map) {
   // Uncomment this link local geojson for when data.beta.nyc is down
-  var link = "usmap.geojson";
+  var link = "assests/usmap.geojson";
   d3.json(link).then(function (data) {
-    var borough  = L.geoJson(data, 
+    var legal  = L.geoJson(data, 
       {
         style : mapStyle,
         onEachFeature: mapFeature,
       })
-    borough.addTo(map)
+    legal.addTo(map)
   });
 }
 /**********************************************/
@@ -51,8 +51,8 @@ function color(Legal_Status) {
     case "Mixed": return "yellow";
     case "Fully_Legal": return "red";
     case "Illegal": return "orange";
-    //case "Queens": return "green";
-    //case "Staten Island": return "purple";
+    case "Queens": return "green";
+    case "Staten Island": return "purple";
     default: return "black";
   }
 }
@@ -81,7 +81,7 @@ function mapFeature(feature , layer)
     }
   });
   // Giving each feature a pop-up with information pertinent to it
-  layer.bindPopup("<h1>" + feature.properties.Legal_Status + "</h1> <hr> <h2>" + feature.properties.LEGALSTATUS + "</h2>");
+  layer.bindPopup("<h1>" + feature.properties.name + "</h1> <hr> <h2>" + feature.properties.Legal_Status + "</h2>");
 }
 
 
@@ -109,7 +109,8 @@ var states = [{
   location: [41.2524, -95.9980],
   name: "Nebraska",
   Legal_Status: "Fully Illegal"
-
+},
+{
   location: [33.9959, -84.4426],
   name: "Georgia",
   Legal_Status: "Mixed"
@@ -148,7 +149,7 @@ var states = [{
 {
   location: [32.9167, -86.7494],
   name: "Alabama",
-  Legal_Status: Fully Illegal
+  Legal_Status: "Fully Illegal"
 },
 {
   location: [34.7494, -92.5625],
@@ -216,7 +217,7 @@ var states = [{
   Legal_Status: "Mixed"
 },
 {
-  location: [42.5001, -72.0246]
+  location: [42.5001, -72.0246],
   name: "Massachusetts",
   Legal_Status: "Fully Legal"
 },
@@ -348,9 +349,9 @@ var states = [{
 ];
 
 // Loop through the cities array and create one marker for each city, bind a popup containing its name and population add it to the map
-for (var i = 0; i < cities.length; i++) {
-  var city = cities[i];
-  L.marker(city.location)
-    .bindPopup("<h1>" + states.name + "</h1> <hr> <h3>Legal Status " + states.Legal_Status+ "</h3>")
+for (var i = 0; i < states.length; i++) {
+  var country = states[i];
+  L.marker(states.location)
+    .bindPopup("<h1>" + states.name + "</h1> <hr> <h3>Legal_status " + states.Legal_Status+ "</h3>")
     .addTo(myMap);
 }
