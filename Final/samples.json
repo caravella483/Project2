@@ -1,0 +1,1235 @@
+{
+  "names":["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New York", "North Carolina", "North Dakota", "Ohio", "Oaklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"],
+  "metadata":[
+    {
+      "id": "Alaska",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.03
+    },
+    {
+      "id": "Alabama",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.45
+    },
+    {
+      "id": "Arkansas",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.24
+    },
+    {
+      "id": "Arizona",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.41
+    },
+    {
+      "id": "California",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.82
+    },
+    {
+      "id": "Colorado",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.53
+    },
+    {
+      "id": "Connecticut",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.88
+    },
+    {
+      "id": "District of Columbia",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.95
+    },
+    {
+      "id": "Delaware",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.84
+    },
+    {
+      "id": "Florida",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.12
+    },
+    {
+      "id": "Georgia",
+      "Legal Status": "Mixed",
+      "Medicinal": "CBD Oil",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.67
+    },
+    {
+      "id": "Hawaii",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.62
+    },
+    {
+      "id": "Iowa",
+      "Legal Status": "Mixed",
+      "Medicinal": "CBD Oil",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.05
+    },
+    {
+      "id": "Idaho",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.68
+    },
+    {
+      "id": "Illinois",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.09
+    },
+    {
+      "id": "Indiana",
+      "Legal Status": "Mixed",
+      "Medicinal": "CBD Oil",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.24
+    },
+    {
+      "id": "Kansas",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.23
+    },
+    {
+      "id": "Kentucky",
+      "Legal Status": "Mixed",
+      "Medicinal": "CBD Oil",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.92
+    },
+    {
+      "id": "Louisiana",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.10
+    },
+    {
+      "id": "Massachusetts",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.20
+    },
+    {
+      "id": "Maryland",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.55
+    },
+    {
+      "id": "Maine",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.20
+    },
+    {
+      "id": "Michigan",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.31
+    },
+    {
+      "id": "Minnesota",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.45
+    },
+    {
+      "id": "Missouri",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.98
+    },
+    {
+      "id": "Mississippi",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.05
+    },
+    {
+      "id": "Montana",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.25
+    },
+    {
+      "id": "North Carolina",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.98
+    },
+    {
+      "id": "North Dakota",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.04
+    },
+    {
+      "id": "Nebraska",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 0.74
+    },
+    {
+      "id": "New Hampshire",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.68
+    },
+    {
+      "id": "New Jersey",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.49
+    },
+    {
+      "id": "New Mexico",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.89
+    },
+    {
+      "id": "Nevada",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.81
+    },
+    {
+      "id": "New York",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.07
+    },
+    {
+      "id": "Ohio",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.32
+    },
+    {
+      "id": "Oklahoma",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.00
+    },
+    {
+      "id": "Oregon",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.41
+    },
+    {
+      "id": "Pennsylvania",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 3.03
+    },
+    {
+      "id": "Rhode Island",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 3.12
+    },
+    {
+      "id": "South Carolina",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.78
+    },
+    {
+      "id": "South Dakota",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 0.85
+    },
+    {
+      "id": "Tennessee",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.18
+    },
+    {
+      "id": "Texas",
+      "Legal Status": "Mixed",
+      "Medicinal": "CBD Oil",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.41
+    },
+    {
+      "id": "Utah",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 3.56
+    },
+    {
+      "id": "Virginia",
+      "Legal Status": "Mixed",
+      "Medicinal": "CBD Oil",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.84
+    },
+    {
+      "id": "Vermont",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 1.98
+    },
+    {
+      "id": "Washington",
+      "Legal Status": "Fully Legal",
+      "Medicinal": "Yes",
+      "Decriminalized": "Yes",
+      "OverdosePercent": 2.01
+    },
+    {
+      "id": "Wisconsin",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 1.94
+    },
+    {
+      "id": "West Virginia",
+      "Legal Status": "Mixed",
+      "Medicinal": "Yes",
+      "Decriminalized": "No",
+      "OverdosePercent": 3.73
+    },
+    {
+      "id": "Wyoming",
+      "Legal Status": "Fully Illegal",
+      "Medicinal": "No",
+      "Decriminalized": "No",
+      "OverdosePercent": 2.04
+    }],
+  "samples":[
+    {
+      "id": "Alaska",
+      "year": [2015,2016, 2017],
+      "overdose": [1472,1594, 1571],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Alabama",
+      "year": [2015,2016,2017],
+      "overdose": [8818,8324, 9551],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Alabama",
+      "year": 2016,
+      "overdose": 8324,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Alabama",
+      "year": 2017,
+      "overdose": 9551,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Arkansas",
+      "year": [2015,2016,2017],
+      "overdose": [4616,4513,4775],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Arizona",
+      "year": [2015,2016, 2017],
+      "overdose": [14590,16403, 17552],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Arizona",
+      "year": 2016,
+      "overdose": 16403,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Arizona",
+      "year": 2017,
+      "overdose": 17552,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "California",
+      "year": [2015,2016,2017],
+      "overdose": [56001,57154, 58406],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Colorado",
+      "year": [2015,2016,2017],
+      "overdose": [11091,11137,12046],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Connecticut",
+      "year": [2015,2016,2017],
+      "overdose": [8451,10776,12594],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Connecticut",
+      "year": 2016,
+      "overdose": 10776,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Connecticut",
+      "year": 2017,
+      "overdose": 12594,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "District of Columbia",
+      "year": [2015, 2016,2017],
+      "overdose": [1447,2586,4639],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "District of Columbia",
+      "year": 2016,
+      "overdose": 2586,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "District of Columbia",
+      "year": 2017,
+      "overdose": 4369,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Delaware",
+      "year": [2015,2016,2017],
+      "overdose": [2391,2724,3866],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Delaware",
+      "year": 2016,
+      "overdose": 2724,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Delaware",
+      "year": 2017,
+      "overdose": 3866,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Florida",
+      "year": [2015,2016,2017],
+      "overdose": [36892, 48380, 65444],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Florida",
+      "year": 2016,
+      "overdose": 48380,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Florida",
+      "year": 2017,
+      "overdose": 65444,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Georgia",
+      "year": [2015,2016,2017],
+      "overdose": [15499,15538, 17723],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Georgia",
+      "year": 2016,
+      "overdose": 15538,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Georgia",
+      "year": 2017,
+      "overdose": 17723,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Hawaii",
+      "year": [2015,2016,2017],
+      "overdose": [1884,2294,2312],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Hawaii",
+      "year": 2016,
+      "overdose": 2294,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Hawaii",
+      "year": 2017,
+      "overdose": 2312,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Iowa",
+      "year": [2015,2016,2017],
+      "overdose": [3471, 3725, 3983],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Iowa",
+      "year": 2016,
+      "overdose": 3725,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Iowa",
+      "year": 2017,
+      "overdose": 3983,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Idaho",
+      "year": [2015,2016,2017],
+      "overdose": [2570,2623, 2807],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Idaho",
+      "year": 2016,
+      "overdose": 2623,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Idaho",
+      "year": 2017,
+      "overdose": 2807,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Illinois",
+      "year": [2015,2016,2017],
+      "overdose": [21218,26227,31024],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Illinois",
+      "year": 2016,
+      "overdose": 26227,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Illinois",
+      "year": 2017,
+      "overdose": 31024,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Indiana",
+      "year": [2015,2016,2017],
+      "overdose": [14427,16365,20889],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Indiana",
+      "year": 2016,
+      "overdose": 16365,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Indiana",
+      "year": 2017,
+      "overdose": 20889,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Kansas",
+      "year": [2015,2016,2017],
+      "overdose": [3926,3774,3771],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Kansas",
+      "year": 2016,
+      "overdose": 3774,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Kansas",
+      "year": 2017,
+      "overdose": 3771,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Kentucky",
+      "year": [2015,2016,2017],
+      "overdose": [14286,16155,18737],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Kentucky",
+      "year": 2016,
+      "overdose": 16155,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Kentucky",
+      "year": 2017,
+      "overdose": 18737,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Louisiana",
+      "year": [2015,2016,2017],
+      "overdose": [9800,11393,12344],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Louisiana",
+      "year": 2016,
+      "overdose": 11393,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Louisiana",
+      "year": 2017,
+      "overdose": 12344,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Massachusetts",
+      "year": [2015,2016,2017],
+      "overdose": [17638,23951,25670],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Massachusetts",
+      "year": 2016,
+      "overdose": 23951,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Massachusetts",
+      "year": 2017,
+      "overdose": 25670,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Maryland",
+      "year": [2015,2016,2017],
+      "overdose": [14101,20291, 27014],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Maryland",
+      "year": 2016,
+      "overdose": 20291,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Maryland",
+      "year": 2017,
+      "overdose": 27014,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Maine",
+      "year": [2015,2016,2017],
+      "overdose": [2940,3796, 4494],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Maine",
+      "year": 2016,
+      "overdose": 3796,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Maine",
+      "year": 2017,
+      "overdose": 4494,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Michigan",
+      "year": [2015,2016,2017],
+      "overdose": [23417,24245,31175],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Michigan",
+      "year": 2016,
+      "overdose": 24245,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Michigan",
+      "year": 2017,
+      "overdose": 31175,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Minnesota",
+      "year": [2015,2016,2017],
+      "overdose": [6669,7668,	8288],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Minnesota",
+      "year": 2016,
+      "overdose": 7668,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Minnesota",
+      "year": 2017,
+      "overdose": 8288,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Missouri",
+      "year": [2015,2016,2017],
+      "overdose": [13090,14478, 16847],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Missouri",
+      "year": 2016,
+      "overdose": 14478,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Missouri",
+      "year": 2017,
+      "overdose": 16847,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Mississippi",
+      "year": [2015,2016,2017],
+      "overdose": [3907,3922,3911],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Mississippi",
+      "year": 2016,
+      "overdose": 3933,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Mississippi",
+      "year": 2017,
+      "overdose": 3911,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Montana",
+      "year": [2015,2016,2017],
+      "overdose": [1527,1477,1465],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Montana",
+      "year": 2016,
+      "overdose": 1477,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Montana",
+      "year": 2017,
+      "overdose": 1465,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "North Carolina",
+      "year": [2015,2016,2017],
+      "overdose": [17006,21361, 26214],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "North Carolina",
+      "year": 2016,
+      "overdose": 21361,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "North Carolina",
+      "year": 2017,
+      "overdose": 26214,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "North Dakota",
+      "year": [2015,2016,2017],
+      "overdose": [799,828,950],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "North Dakota",
+      "year": 2016,
+      "overdose": 828,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "North Dakota",
+      "year": 2017,
+      "overdose": 950,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Nebraska",
+      "year": [2015,2016,2017],
+      "overdose": [1547,1425,1512],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Nebraska",
+      "year": 2016,
+      "overdose": 1425,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Nebraska",
+      "year": 2017,
+      "overdose": 1512,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "New Hampshire",
+      "year": [2015,2016,2017],
+      "overdose": [4896,5256,5524],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Hampshire",
+      "year": 2016,
+      "overdose": 5256,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Hampshire",
+      "year": 2017,
+      "overdose": 5524,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Jersey",
+      "year": [2015,2016,2017],
+      "overdose": [15849,20055,28586],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Jersey",
+      "year": 2016,
+      "overdose": 20055,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Jersey",
+      "year": 2017,
+      "overdose": 28586,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Mexico",
+      "year": [2015,2016,2017],
+      "overdose": [6291,5881,6036],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Mexico",
+      "year": 2016,
+      "overdose": 5881,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New Mexico",
+      "year": 2017,
+      "overdose": 6036,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Nevada",
+      "year": [2015,2016,2017],
+      "overdose": [7342,8457,8748],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Nevada",
+      "year": 2016,
+      "overdose": 8457,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Nevada",
+      "year": 2017,
+      "overdose": 8748,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "New York",
+      "year": [2015,2016,2017],
+      "overdose": [19990,24820,28892],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New York",
+      "year": 2016,
+      "overdose": 24820,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "New York",
+      "year": 2017,
+      "overdose": 28892,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Ohio",
+      "year": [2015,2016,2017],
+      "overdose": [36893,45503,60794],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Ohio",
+      "year": 2016,
+      "overdose": 45503,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Ohio",
+      "year": 2017,
+      "overdose": 60794,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Oklahoma",
+      "year": [2015,2016,2017],
+      "overdose": [8944,8913,9867],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Oklahoma",
+      "year": 2016,
+      "overdose": 8913,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Oklahoma",
+      "year": 2017,
+      "overdose": 9867,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Oregon",
+      "year": [2015,2016,2017],
+      "overdose": [6129,6002,6199],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Oregon",
+      "year": 2016,
+      "overdose": 6002,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Oregon",
+      "year": 2017,
+      "overdose": 6199,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Pennsylvania",
+      "year": [2015,2016,2017],
+      "overdose": [36077,45980,64683],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Pennsylvania",
+      "year": 2016,
+      "overdose": 45980,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Pennsylvania",
+      "year": 2017,
+      "overdose": 64683,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Rhode Island",
+      "year": [2015,2016,2017],
+      "overdose": [3517,3978,3986],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Rhode Island",
+      "year": 2016,
+      "overdose": 3978,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Rhode Island",
+      "year": 2017,
+      "overdose": 3986,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "South Carolina",
+      "year": [2015,2016,2017],
+      "overdose": [8692,9569,11678],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "South Carolina",
+      "year": 2016,
+      "overdose": 9569,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "South Carolina",
+      "year": 2017,
+      "overdose": 11678,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "South Dakota",
+      "year": [2015,2016,2017],
+      "overdose": [727,809, 891],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "South Dakota",
+      "year": 2016,
+      "overdose": 809,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "South Dakota",
+      "year": 2017,
+      "overdose": 891,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Tennessee",
+      "year": [2015,2016,2017],
+      "overdose": [16367,18632, 20761],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Tennessee",
+      "year": 2016,
+      "overdose": 18632,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Tennessee",
+      "year": 2017,
+      "overdose": 20761,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Texas",
+      "year": 2015,
+      "overdose": 30794,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Texas",
+      "year": 2016,
+      "overdose": 32557,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Texas",
+      "year": 2017,
+      "overdose": 34262,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Utah",
+      "year": [2015,2016,2017],
+      "overdose": [7433,8333,7485],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Utah",
+      "year": 2016,
+      "overdose": 8333,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Utah",
+      "year": 2017,
+      "overdose": 7485,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Virginia",
+      "year": [2015,2016,2017],
+      "overdose": [11819,14327,17070],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Virginia",
+      "year": 2016,
+      "overdose": 14327,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Virginia",
+      "year": 2017,
+      "overdose": 17070,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Vermont",
+      "year": [2015,2016,2017],
+      "overdose": [1094,1363,1633],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Vermont",
+      "year": 2016,
+      "overdose": 1363,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Vermont",
+      "year": 2017,
+      "overdose": 1633,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Washington",
+      "year": [2015,2016,2017],
+      "overdose": [12643,13830,13223],
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Washington",
+      "year": 2016,
+      "overdose": 13830,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Washington",
+      "year": 2017,
+      "overdose": 13223,
+      "legalWeedStatus": "Fully Legal"
+    },
+    {
+      "id": "Wisconsin",
+      "year": [2015,2016,2017],
+      "overdose": [10378,11926,13577],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Wisconsin",
+      "year": 2016,
+      "overdose": 11926,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Wisconsin",
+      "year": 2017,
+      "overdose": 13577,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "West Virginia",
+      "year": [2015,2016,2017],
+      "overdose": [8230,9617,11836],
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "West Virginia",
+      "year": 2016,
+      "overdose": 9617,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "West Virginia",
+      "year": 2017,
+      "overdose": 11836,
+      "legalWeedStatus": "Mixed"
+    },
+    {
+      "id": "Wyoming",
+      "year": [2015,2016,2017],
+      "overdose": [1229,1138,871],
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Wyoming",
+      "year": 2016,
+      "overdose": 1138,
+      "legalWeedStatus": "Fully Illegal"
+    },
+    {
+      "id": "Wyoming",
+      "year": 2017,
+      "overdose": 871,
+      "legalWeedStatus": "Fully Illegal"
+    }
+    
+  ]
+}
+
