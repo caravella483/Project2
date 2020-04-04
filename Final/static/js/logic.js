@@ -24,7 +24,7 @@ function addBaseLayer(map) {
 /**********************************************/
 function createBorough(map) {
   // Uncomment this link local geojson for when data.beta.nyc is down
-  var link = "static/data/usmap.json";
+  var link = "static/data/us.json";
   d3.json(link).then(function (data) {
     var borough  = L.geoJson(data, 
       {
@@ -46,13 +46,13 @@ function mapStyle(feature )
   };
 }
 /**********************************************/
-function color(LEGALSTATUS) {
-  switch (LEGALSTATUS) {
-    case "Mixed": return "yellow";
-    case "Fully_Legal": return "red";
-    case "Illegal": return "orange";
-    //case "Queens": return "green";
-    //case "Staten Island": return "purple";
+function color(borough) {
+  switch (borough) {
+    case "Brooklyn": return "yellow";
+    case "Bronx": return "red";
+    case "Manhattan": return "orange";
+    case "Queens": return "green";
+    case "Staten Island": return "purple";
     default: return "black";
   }
 }
@@ -81,5 +81,5 @@ function mapFeature(feature , layer)
     }
   });
   // Giving each feature a pop-up with information pertinent to it
-  layer.bindPopup("<h1>" + feature.properties.LEGALSTATUS + "</h1> <hr> <h2>" + feature.properties.NAME + "</h2>");
+  layer.bindPopup("<h1>" + feature.properties.Legal_Status + "</h1> <hr> <h2>" + feature.properties.NAME + "</h2>");
 }
