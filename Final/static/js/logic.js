@@ -46,11 +46,19 @@ function mapStyle(feature )
   };
 }
 /**********************************************/
+<<<<<<< HEAD
 function color(borough) {
   switch (borough) {
     case "Brooklyn": return "yellow";
     case "Bronx": return "red";
     case "Manhattan": return "orange";
+=======
+function color(Legal_status) {
+  switch (Legal_status) {
+    case "Mixed": return "yellow";
+    case "Fully_Legal": return "red";
+    case "Illegal": return "orange";
+>>>>>>> dda4b1b99a098313f0159f14f99bbfac6b9c46cc
     case "Queens": return "green";
     case "Staten Island": return "purple";
     default: return "black";
@@ -81,5 +89,9 @@ function mapFeature(feature , layer)
     }
   });
   // Giving each feature a pop-up with information pertinent to it
+<<<<<<< HEAD
   layer.bindPopup("<h1>" + feature.properties.Legal_Status + "</h1> <hr> <h2>" + feature.properties.NAME + "</h2>");
+=======
+  layer.bindPopup("<h1>" + feature.properties.Legal_status + "</h1> <hr> <h2>" + feature.properties.NAME + "</h2>");
+>>>>>>> dda4b1b99a098313f0159f14f99bbfac6b9c46cc
 }
